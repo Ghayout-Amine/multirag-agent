@@ -1,0 +1,26 @@
+[
+  {
+    "id": "notice_fr_001",
+    "titre": "Royaume de Numidie",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Numidie",
+    "theme": "Histoire antique du Maghreb",
+    "texte": "La Numidie est un ancien royaume berbère qui a existé en Afrique du Nord de 202 av. J.-C. à 46 av. J.-C. Il était situé sur le territoire de l'Algérie moderne, débordant sur une partie de la Tunisie et du Maroc actuels. Le premier roi de la Numidie unifiée fut Massinissa, célèbre pour son alliance avec Rome durant la deuxième guerre punique contre Carthage."
+  },
+  {
+    "id": "notice_en_001",
+    "titre": "Kingdom of Numidia",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Numidia",
+    "theme": "Ancient North African History",
+    "texte": "Numidia was an ancient Berber kingdom in North Africa, located in modern-day Algeria and parts of Tunisia and Morocco. The unified kingdom was founded by King Masinissa in 202 BC after defeating Syphax with Roman support. The Numidians were renowned for their skilled light cavalry."
+  },
+  {
+    "id": "notice_ar_001",
+    "titre": "مملكة نوميديا",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/نوميديا",
+    "theme": "تاريخ شمال إفريقيا القديم",
+    "texte": "نوميديا هي مملكة أمازيغية قديمة قامت في شمال إفريقيا بين عامي 202 قبل الميلاد و46 قبل الميلاد، وامتدت أراضيها في الجزائر الحالية وأجزاء من تونس والمغرب. يُعد الملك ماسينيسا المؤسس الفعلي لمملكة نوميديا الموحدة بعد تحالفه مع الرومان وهزيمة سيفاكس."
+  }
+]
