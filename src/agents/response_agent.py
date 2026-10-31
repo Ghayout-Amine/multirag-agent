@@ -1,4 +1,5 @@
 import os
+import re
 from typing import List, Dict, Any, Optional
 import requests
 from pydantic import BaseModel, Field
@@ -191,18 +192,26 @@ Réponse factuelle et sourcée :"""
                 "source_url": chunk.source_url
             })
 
-        # Détecter si la réponse est un refus formulé
-        is_refusal = (
-            "non trouvée dans le corpus" in raw_text.lower() or
-            "not found in" in raw_text.lower() or
-            "غير موجودة" in raw_text
+        # Détecter la présence effective de citations (ex: [1], [2], [1, 2], [1, 2, 3])
+        citation_matches = re.findall(r"\[([0-9,\s]+)\]", raw_text)
+        has_citations = len(citation_matches) > 0
+        
+        is_declared_refusal = (
+            "information non trouvée dans le corpus" in raw_text.lower() or
+            "information non trouvee dans le corpus" in raw_text.lower() or
+            "not found in the provided" in raw_text.lower() or
+            "المعلومة غير موجودة" in raw_text
         )
+        
+        # Un refus total n'est avéré QUE si aucune citation n'a pu être fournie
+        # OU si le texte ne fait que déclarer le refus dès le début
+        is_total_refusal = (is_declared_refusal and not has_citations) or (raw_text.lower().startswith("information non trouv"))
 
         return ResponseResult(
             query=query,
             answer=raw_text,
             lang=lang,
-            citations=citations if not is_refusal else [],
-            has_answer=not is_refusal,
+            citations=citations if not is_total_refusal else [],
+            has_answer=not is_total_refusal,
             model_used=self.model
         )
