@@ -91,17 +91,29 @@ with st.sidebar:
     st.divider()
     st.markdown("#### 💡 Exemples de questions")
     
-    if st.button("🇫🇷 Qui était le roi Masinissa ?"):
-        st.session_state["user_query"] = "Qui était le roi Masinissa et quel royaume a-t-il unifié ?"
-        
-    if st.button("🇬🇧 Who was King Masinissa?"):
-        st.session_state["user_query"] = "Who was King Masinissa and what did he accomplish?"
-        
-    if st.button("🇲🇦 من هو الملك ماسينيسا؟"):
-        st.session_state["user_query"] = "من هو الملك ماسينيسا وما هي إنجازاته؟"
-        
+    if st.button("🇫🇷 Al-Qarawiyyin (Fès)"):
+        st.session_state["user_query"] = "Quelle est l'histoire de la fondation de l'Université Al-Qarawiyyin à Fès ?"
+        st.rerun()
+
+    if st.button("🇫🇷 Yusuf ibn Tashfin"):
+        st.session_state["user_query"] = "Qui était Yusuf ibn Tashfin et quel rôle a-t-il joué à la bataille de Sagrajas ?"
+        st.rerun()
+
+    if st.button("🇬🇧 Ibn Battuta's Travels"):
+        st.session_state["user_query"] = "Who was Ibn Battuta and what regions did he explore during his travels?"
+        st.rerun()
+
+    if st.button("🇲🇦 ابن خلدون ومفهوم العصبية"):
+        st.session_state["user_query"] = "من هو عبد الرحمن بن خلدون وما هو مفهوم العصبية في مقدمته؟"
+        st.rerun()
+
+    if st.button("👑 Test Désambiguïsation ('le roi')"):
+        st.session_state["user_query"] = "qui est le roi"
+        st.rerun()
+
     if st.button("🚫 Piège hors-corpus (Couscous)"):
         st.session_state["user_query"] = "Donne-moi la recette traditionnelle du couscous royal."
+        st.rerun()
 
 
 # ──────────────────────────────────────────────
@@ -138,6 +150,8 @@ if submit and query.strip():
     with col_stat:
         if result.status == "SUCCESS":
             st.success("✅ Réponse Certifiée")
+        elif result.status == "AMBIGUOUS_SUGGESTION":
+            st.info("💡 Clarification Requise")
         elif result.status == "REFUSAL_LANGUAGE":
             st.info("🌐 Langue Non Supportée")
         elif result.status == "REFUSAL_NO_CORPUS":
@@ -156,6 +170,17 @@ if submit and query.strip():
         
     st.markdown("### 📝 Réponse formulée")
     st.markdown(f"**{result.final_answer}**")
+
+    # ── Section 0 : Suggestions de désambiguïsation (si disponibles) ──
+    if result.suggestions:
+        st.markdown("#### 🎯 Sujets suggérés dans le corpus :")
+        cols_sug = st.columns(min(len(result.suggestions), 4))
+        for idx, sug_title in enumerate(result.suggestions):
+            col_target = cols_sug[idx % len(cols_sug)]
+            with col_target:
+                if st.button(f"👉 {sug_title}", key=f"sug_btn_{idx}"):
+                    st.session_state["user_query"] = f"Parle-moi de : {sug_title}"
+                    st.rerun()
     
     # ── Section 1 : Sources documentaires citées ──
     if result.citations:

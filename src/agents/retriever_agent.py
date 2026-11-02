@@ -24,6 +24,10 @@ class RetrieverResult(BaseModel):
         ...,
         description="True si au moins un passage dépasse le seuil de similarité"
     )
+    suggestions: List[str] = Field(
+        default_factory=list,
+        description="Suggestions de clarification en cas de question ambiguë ou trop générale"
+    )
     message: str = Field(
         ...,
         description="Message descriptif : succès avec nombre de chunks, ou refus motivé"
@@ -103,17 +107,35 @@ class RetrieverAgent:
             similarity_threshold=self.similarity_threshold
         )
 
-        # ── Garde-fou 2 : aucun résultat pertinent ───────────────────
+        # ── Garde-fou 2 : aucun résultat dépassant le seuil strict ───────
         if not chunks:
+            # Recherche de clarification (désambiguïsation) avec seuil intermédiaire
+            candidates = self.vector_store.search(
+                query=query_clean,
+                top_k=4,
+                similarity_threshold=0.25
+            )
+            # Extraire les titres de notices uniques comme suggestions
+            suggestions = list(dict.fromkeys([c.titre for c in candidates]))
+
+            if suggestions:
+                msg = (
+                    "Votre question est générale ou ambiguë. "
+                    "Voici des sujets proches identifiés dans notre corpus pour vous orienter :"
+                )
+            else:
+                msg = (
+                    "Aucun passage pertinent trouvé dans le corpus pour cette question. "
+                    "Le système refuse de répondre par manque de base factuelle."
+                )
+
             return RetrieverResult(
                 query=query_clean,
                 lang=lang,
                 chunks=[],
                 has_results=False,
-                message=(
-                    "Aucun passage pertinent trouvé dans le corpus pour cette question. "
-                    "Le système refuse de répondre par manque de base factuelle."
-                )
+                suggestions=suggestions,
+                message=msg
             )
 
         # ── Succès : passages trouvés ─────────────────────────────────

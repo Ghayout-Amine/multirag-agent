@@ -1,0 +1,482 @@
+[
+  {
+    "id": "notice_fr_001",
+    "titre": "Royaume de Numidie",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Numidie",
+    "theme": "Royaumes Antiques",
+    "texte": "La Numidie est un ancien royaume berbère qui a existé en Afrique du Nord de 202 av. J.-C. à 46 av. J.-C., s'étendant sur l'Algérie moderne et des portions de Tunisie et du Maroc. Fondé à la suite de la deuxième guerre punique, il a été unifié sous le règne du roi Masinissa, avec Cirta (Constantine) pour capitale."
+  },
+  {
+    "id": "notice_fr_002",
+    "titre": "Le roi Masinissa",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Massinissa",
+    "theme": "Figures Historiques",
+    "texte": "Masinissa, né vers 238 av. J.-C. et mort en 148 av. J.-C., est le premier roi de la Numidie unifiée. Allié de Scipion l'Africain et de Rome contre Carthage, il a développé l'agriculture numide, sédentarisé des tribus et fortifié l'économie du royaume avec sa célèbre devise sur l'Afrique appartenant aux Africains."
+  },
+  {
+    "id": "notice_fr_003",
+    "titre": "Le roi Jugurtha",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Jugurtha",
+    "theme": "Figures Historiques",
+    "texte": "Jugurtha, petit-fils de Masinissa, a régné sur la Numidie de 118 à 105 av. J.-C. Célèbre pour sa résistance acharnée contre la République romaine lors de la guerre de Jugurtha, il a dénoncé la corruption des sénateurs romains avant d'être trahi par son beau-père Bocchus de Maurétanie et capturé par Sylla."
+  },
+  {
+    "id": "notice_fr_004",
+    "titre": "Le roi Juba II",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Juba_II",
+    "theme": "Figures Historiques",
+    "texte": "Juba II (vers 52 av. J.-C. - 23 ap. J.-C.) était roi de Maurétanie, éduqué à Rome à la cour d'Auguste. Érudit, géographe et mécène des arts, il a épousé Cléopâtre Séléné II, fille de Marc Antoine et Cléopâtre. Il a régné depuis ses capitales Caesarea (Cherchell) et Volubilis."
+  },
+  {
+    "id": "notice_fr_005",
+    "titre": "Royaume de Maurétanie",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Maur%C3%A9tanie_(Antiquit%C3%A9)",
+    "theme": "Royaumes Antiques",
+    "texte": "La Maurétanie antique était un vaste territoire berbère du nord-ouest de l'Afrique, recouvrant le nord du Maroc et le centre-ouest de l'Algérie. Gouvernée par des rois comme Bocchus Ier, Bogud et Juba II, elle est devenue province romaine sous l'empereur Claude en l'an 40."
+  },
+  {
+    "id": "notice_fr_006",
+    "titre": "Carthage antique",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Civilisation_carthaginoise",
+    "theme": "Cités et Monuments",
+    "texte": "Carthage, fondée au IXe siècle av. J.-C. par des colons phéniciens de Tyr sur les côtes de l'actuelle Tunisie, est devenue une thalassocratie majeure en Méditerranée occidentale. Dirigée par des généraux renommés comme Hamilcar Barca et Hannibal, elle affronta Rome au cours des trois guerres puniques."
+  },
+  {
+    "id": "notice_fr_007",
+    "titre": "Volubilis",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Volubilis",
+    "theme": "Cités et Monuments",
+    "texte": "Volubilis est une ville antique berbère puis romaine située près de Meknès au Maroc. Centre administratif et agricole prospère produisant du blé et de l'huile d'olive, la cité est célèbre pour ses mosaïques bien conservées, son arc de triomphe de Caracalla et sa basilique."
+  },
+  {
+    "id": "notice_fr_008",
+    "titre": "Timgad",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Timgad",
+    "theme": "Cités et Monuments",
+    "texte": "Timgad (Thamugadi) est une cité romaine fondée par l'empereur Trajan en l'an 100 dans les Aurès en Algérie. Exemple parfait d'urbanisme romain en plan en damier, le site comprend un arc de triomphe majestueux, un théâtre de 3500 places, des thermes et une grande bibliothèque publique."
+  },
+  {
+    "id": "notice_fr_009",
+    "titre": "Dynastie des Idrissides",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Idrissides",
+    "theme": "Dynasties et Histoire",
+    "texte": "La dynastie idrisside a été fondée en 789 par Idris Ier, descendant du prophète Mahomet, qui trouva refuge auprès de la tribu berbère des Awraba à Volubilis. Son fils Idris II développa la ville de Fès, qui devint la capitale politique et intellectuelle du royaume."
+  },
+  {
+    "id": "notice_fr_010",
+    "titre": "Université Al-Qarawiyyin",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Al_Quaraouiyine",
+    "theme": "Savoir et Universités",
+    "texte": "Fondée en 859 à Fès par Fatima al-Fihriya, la mosquée et université Al-Qarawiyyin est reconnue par l'UNESCO comme la plus ancienne université encore en activité dans le monde. Elle forma de nombreux érudits en théologie, mathématiques, astronomie et médecine."
+  },
+  {
+    "id": "notice_fr_011",
+    "titre": "Dynastie des Almoravides",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Almoravides",
+    "theme": "Dynasties et Histoire",
+    "texte": "Les Almoravides formaient une dynastie berbère sanhadja originaire du Sahara qui régna du XIe au XIIe siècle sur le Maghreb occidental et Al-Andalus. Fondateurs de la ville de Marrakech en 1062 sous Abu Bakr ibn Umar et Yusuf ibn Tashfin, ils unifièrent un empire de l'Èbre au fleuve Sénégal."
+  },
+  {
+    "id": "notice_fr_012",
+    "titre": "Yusuf ibn Tashfin",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Youssef_ben_Tachfine",
+    "theme": "Figures Historiques",
+    "texte": "Yusuf ibn Tashfin (1009-1106) était le chef de l'empire almoravide. Appelée à l'aide par les émirs d'Al-Andalus, son armée infligea une défaite historique à Alphonse VI de Castille lors de la bataille de Sagrajas (al-Zallaqah) en 1086, préservant la présence musulmane en Espagne."
+  },
+  {
+    "id": "notice_fr_013",
+    "titre": "Dynastie des Almohades",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Almohades",
+    "theme": "Dynasties et Histoire",
+    "texte": "Les Almohades formaient un mouvement religieux et une dynastie berbère masmouda fondée par Ibn Toumert au début du XIIe siècle dans le Haut Atlas. Sous Abd al-Mu'min et ses successeurs, l'empire engloba tout le Maghreb (Maroc, Algérie, Tunisie, Libye) et le sud de la péninsule Ibérique."
+  },
+  {
+    "id": "notice_fr_014",
+    "titre": "Ibn Khaldoun",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Ibn_Khaldoun",
+    "theme": "Penseurs et Savants",
+    "texte": "Ibn Khaldoun (1332-1406), né à Tunis et ayant vécu à Fès, Grenade et au Caire, est un historien et philosophe considéré comme le père de la sociologie et de l'historiographie moderne. Son chef-d'œuvre, la Muqaddima (Prolégomènes), analyse les dynamiques des empires et le concept d'Asabiyya (cohésion sociale)."
+  },
+  {
+    "id": "notice_fr_015",
+    "titre": "Ibn Battuta",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Ibn_Battuta",
+    "theme": "Explorateurs",
+    "texte": "Ibn Battuta (1304-1368), né à Tanger au Maroc, est l'un des plus grands explorateurs de tous les temps. Pendant près de trente ans, il parcourut plus de 120 000 kilomètres à travers le monde islamique, l'Afrique subsaharienne, l'Inde et la Chine, dictant son voyage dans sa célèbre Rihla."
+  },
+  {
+    "id": "notice_fr_016",
+    "titre": "Tariq ibn Ziyad",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Tariq_ibn_Ziyad",
+    "theme": "Figures Historiques",
+    "texte": "Tariq ibn Ziyad était un général berbère au service des Omeyyades qui débuta la conquête musulmane de la péninsule Ibérique en 711. Il traversa le détroit depuis le Maroc et débarqua près du rocher qui porte son nom : Djebel Tariq (devenu Gibraltar), battant le roi wisigoth Rodrigue."
+  },
+  {
+    "id": "notice_fr_017",
+    "titre": "Grande Mosquée de Kairouan",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Grande_Mosqu%C3%A9e_de_Kairouan",
+    "theme": "Cités et Monuments",
+    "texte": "Fondée en 670 par Oqba Ibn Nafi à Kairouan en Tunisie, la Grande Mosquée de Kairouan (Mosquée Oqba) est le plus ancien et le plus prestigieux édifice religieux de l'Occident musulman. Son minaret carré à étages a servi de modèle architectural pour toute l'architecture islamique maghrébine."
+  },
+  {
+    "id": "notice_fr_018",
+    "titre": "Royaume zianide de Tlemcen",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Zianides",
+    "theme": "Dynasties et Histoire",
+    "texte": "Le royaume zianide (ou abdelwadide) était un État berbère régnant sur le Maghreb central (Algérie actuelle) de 1235 à 1554, avec Tlemcen pour capitale. Fondé par Yaghmurasen ibn Zyan, le royaume fut un foyer artistique et commercial majeur entre le Sahara et la Méditerranée."
+  },
+  {
+    "id": "notice_fr_019",
+    "titre": "Averroès (Ibn Rushd)",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Averro%C3%A8s",
+    "theme": "Penseurs et Savants",
+    "texte": "Averroès (Ibn Rushd, 1126-1198), né à Cordoue en Al-Andalus et mort à Marrakech, était un philosophe, juriste et médecin musulman. Ses commentaires détaillés des œuvres d'Aristote ont exercé une influence majeure sur la pensée scolastique et la Renaissance en Europe occidentale."
+  },
+  {
+    "id": "notice_fr_020",
+    "titre": "Al-Idrisi",
+    "langue": "fr",
+    "source_url": "https://fr.wikipedia.org/wiki/Al-Idrisi",
+    "theme": "Penseurs et Savants",
+    "texte": "Al-Idrisi (1100-1165), né à Sabtah (Ceuta), était un géographe et cartographe arabe renommé. À la cour du roi normand Roger II de Sicile, il réalisa la Tabula Rogeriana, l'une des cartes du monde les plus précises et avancées du Moyen Âge, accompagnée d'un traité encyclopédique."
+  },
+  {
+    "id": "notice_en_001",
+    "titre": "Kingdom of Numidia",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Numidia",
+    "theme": "Ancient Kingdoms",
+    "texte": "Numidia was an ancient Berber kingdom located in North Africa, encompassing modern-day northeastern Algeria, along with parts of western Tunisia. Established after the Second Punic War, it was united under King Masinissa with its political capital situated at Cirta (modern Constantine)."
+  },
+  {
+    "id": "notice_en_002",
+    "titre": "King Masinissa",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Masinissa",
+    "theme": "Historical Figures",
+    "texte": "Masinissa (c. 238 BC – 148 BC) was the first king of united Numidia. Renowned for switching alliances from Carthage to the Roman Republic during the Second Punic War, he assisted Scipio Africanus at the Battle of Zama and transformed Numidia into a powerful agricultural state."
+  },
+  {
+    "id": "notice_en_003",
+    "titre": "King Jugurtha",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Jugurtha",
+    "theme": "Historical Figures",
+    "texte": "Jugurtha was a Numidian king who reigned from 118 to 105 BC. Famous for resisting Roman expansion during the Jugurthine War, he famously described Rome as a 'city for sale and doomed to quick destruction if it should find a buyer.' He was ultimately captured and executed in the Tullianum."
+  },
+  {
+    "id": "notice_en_004",
+    "titre": "King Juba II",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Juba_II",
+    "theme": "Historical Figures",
+    "texte": "Juba II (52 BC – AD 23) was a king of Mauretania and a distinguished scholar raised in Rome. He married Cleopatra Selene II, daughter of Cleopatra and Mark Antony. Juba II wrote authoritative treatises on geography, natural history, and arts from his capital in Caesarea and Volubilis."
+  },
+  {
+    "id": "notice_en_005",
+    "titre": "Ancient Carthage",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Carthage",
+    "theme": "Ancient Cities",
+    "texte": "Ancient Carthage was a prominent Phoenician civilization established in the 9th century BC near modern Tunis. It developed into a dominant maritime empire governing trade routes across the Western Mediterranean before engaging in three prolonged Punic Wars against Rome."
+  },
+  {
+    "id": "notice_en_006",
+    "titre": "Volubilis Archaeological Site",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Volubilis",
+    "theme": "Monuments and Sites",
+    "texte": "Volubilis is a partly excavated Berber-Roman city situated near Meknes in Morocco. Serving as a crucial administrative outpost for the province of Mauretania Tingitana, it boasts well-preserved mosaics, public buildings, olive oil presses, and the Arch of Caracalla."
+  },
+  {
+    "id": "notice_en_007",
+    "titre": "Timgad Roman Colony",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Timgad",
+    "theme": "Monuments and Sites",
+    "texte": "Timgad was a Roman colonial city founded around AD 100 by Emperor Trajan in the Aures Mountains of Algeria. Renowned as a textbook exemplar of Roman grid planning (cardus and decumanus), the UNESCO World Heritage site features Trajan's Arch, a theater, and extensive public baths."
+  },
+  {
+    "id": "notice_en_008",
+    "titre": "The Idrisid Dynasty",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Idrisid_dynasty",
+    "theme": "Dynasties and History",
+    "texte": "The Idrisid dynasty was an Arab-Muslim dynasty ruling Morocco from 789 to 974. Founded by Idris I, a great-grandson of Hasan ibn Ali, the dynasty is credited with establishing Morocco's first unified Islamic state and founding the imperial capital city of Fez."
+  },
+  {
+    "id": "notice_en_009",
+    "titre": "University of al-Qarawiyyin",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
+    "theme": "Education and Knowledge",
+    "texte": "Founded in 859 by Fatima al-Fihri in Fez, Morocco, the University of al-Qarawiyyin is recognized by UNESCO and Guinness World Records as the oldest continuously operating higher educational institution in the world, fostering scientific advances in astronomy and philosophy."
+  },
+  {
+    "id": "notice_en_010",
+    "titre": "The Almoravid Dynasty",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Almoravid_dynasty",
+    "theme": "Dynasties and History",
+    "texte": "The Almoravids were an imperial Berber Muslim dynasty originating from the Sahara desert that reigned over Morocco, western Algeria, and Al-Andalus during the 11th and 12th centuries. They founded Marrakesh as their capital in 1062 and enforced a strictly orthodox legal system."
+  },
+  {
+    "id": "notice_en_011",
+    "titre": "Yusuf ibn Tashfin",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Yusuf_ibn_Tashfin",
+    "theme": "Historical Figures",
+    "texte": "Yusuf ibn Tashfin was the paramount leader of the Almoravid Empire. He decisively defeated the Christian army of King Alfonso VI of Castile at the Battle of Sagrajas in 1086, stabilizing Muslim rule in Moorish Spain and unifying North African and Iberian territories."
+  },
+  {
+    "id": "notice_en_012",
+    "titre": "The Almohad Caliphate",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Almohad_Caliphate",
+    "theme": "Dynasties and History",
+    "texte": "The Almohad Caliphate was a Moroccan Berber Islamic empire founded in the 12th century by Ibn Tumart. Under Abd al-Mu'min, the Almohads conquered all of North Africa as far east as Tripoli, as well as southern Spain, erecting iconic minarets such as the Koutoubia and Giralda."
+  },
+  {
+    "id": "notice_en_013",
+    "titre": "Ibn Khaldun",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+    "theme": "Scholars and Thinkers",
+    "texte": "Ibn Khaldun (1332–1406) was a prominent North African polymath, sociologist, and historian born in Tunis. His monumental work, the Muqaddimah, introduced pioneering methodologies in economics, demographics, and sociology, analyzing tribal solidarity ('Asabiyyah) in dynastic cycles."
+  },
+  {
+    "id": "notice_en_014",
+    "titre": "Ibn Battuta",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Ibn_Battuta",
+    "theme": "Explorers",
+    "texte": "Ibn Battuta (1304–1369) was a celebrated Moroccan explorer from Tangier. Over thirty years, he journeyed across nearly the entirety of the Islamic world, East Africa, Persia, India, Southeast Asia, and China, documenting cultural and political life in his travelogue, the Rihla."
+  },
+  {
+    "id": "notice_en_015",
+    "titre": "Tariq ibn Ziyad",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad",
+    "theme": "Historical Figures",
+    "texte": "Tariq ibn Ziyad was an Umayyad military commander of Berber descent who led the conquest of Visigothic Hispania in 711. He crossed the strait from Morocco, docking at the imposing promontory named after him: Gibraltar (Jabal Tariq)."
+  },
+  {
+    "id": "notice_en_016",
+    "titre": "Great Mosque of Kairouan",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Kairouan",
+    "theme": "Monuments and Sites",
+    "texte": "Founded in 670 by Uqba ibn Nafi in Kairouan, Tunisia, the Great Mosque of Kairouan is one of the earliest and most consequential monuments of Islamic architecture in North Africa, featuring a massive three-tiered square minaret that influenced western Islamic architecture."
+  },
+  {
+    "id": "notice_en_017",
+    "titre": "The Alhambra of Granada",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Alhambra",
+    "theme": "Monuments and Sites",
+    "texte": "The Alhambra is an expansive palace and fortress complex constructed in Granada, Spain, by the Nasrid dynasty rulers. Renowned for its intricate Moorish plasterwork, marble courtyards, and reflecting pools, it stands as the pinnacle of Islamic art in Al-Andalus."
+  },
+  {
+    "id": "notice_en_018",
+    "titre": "The Zayyanid Kingdom of Tlemcen",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Kingdom_of_Tlemcen",
+    "theme": "Dynasties and History",
+    "texte": "The Kingdom of Tlemcen was an Islamic Berber state ruled by the Zayyanid dynasty from 1235 until 1556 in northwestern Algeria. Positioned strategically on trans-Saharan trade routes, its capital Tlemcen became a bustling intellectual and religious hub."
+  },
+  {
+    "id": "notice_en_019",
+    "titre": "Averroes (Ibn Rushd)",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Averroes",
+    "theme": "Scholars and Thinkers",
+    "texte": "Averroes (1126–1198) was an Andalusian-Arab polymath, jurist, and philosopher born in Cordoba. Best known for his extensive commentaries on Aristotle, Averroes advocated the harmony between reason and religious revelation, profoundly impacting European scholasticism."
+  },
+  {
+    "id": "notice_en_020",
+    "titre": "Muhammad al-Idrisi",
+    "langue": "en",
+    "source_url": "https://en.wikipedia.org/wiki/Muhammad_al-Idrisi",
+    "theme": "Scholars and Thinkers",
+    "texte": "Muhammad al-Idrisi (1100–1165) was an Arab geographer and cartographer born in Ceuta who worked in Palermo for King Roger II of Sicily. He produced the Tabula Rogeriana, one of the most sophisticated world maps of the pre-modern era."
+  },
+  {
+    "id": "notice_ar_001",
+    "titre": "مملكة نوميديا القديمة",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+    "theme": "الممالك القديمة",
+    "texte": "نوميديا هي مملكة أمازيغية قديمة قامت في شمال إفريقيا بين عامي 202 قبل الميلاد و46 قبل الميلاد في الجزائر الحالية وأجزاء من تونس والمغرب. اتخذت من مدينة سيرتا (قسنطينة حالياً) عاصمة سياسية واقتصادية لها، وتطورت في عهد ملوكها لتصبح قوة إقليمية كبرى في البحر الأبيض المتوسط."
+  },
+  {
+    "id": "notice_ar_002",
+    "titre": "الملك ماسينيسا",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3%D9%8A%D9%86%D9%8A%D8%B3%D8%A7",
+    "theme": "شخصيات تاريخية",
+    "texte": "الملك ماسينيسا (حوالي 238 ق.م - 148 ق.م) هو مؤسس وأول ملوك مملكة نوميديا الموحدة. اشتهر بتحالفه مع الرومان بقيادة سكيبيو الإفريقي ضد قرطاج في معركة زاما، وقام بتطوير الزراعة واستقرار القبائل، واشتهر بمقولته الشهيرة: إفريقيا للأفارقة."
+  },
+  {
+    "id": "notice_ar_003",
+    "titre": "الملك يوغرطة وحرب يوغرطة",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D8%BA%D8%B1%D8%B7%D8%A9",
+    "theme": "شخصيات تاريخية",
+    "texte": "يوغرطة هو ملك نوميدي حكم بين 118 و105 قبل الميلاد. قاد حرباً باسلة استمرت سبع سنوات ضد الإمبراطورية الرومانية عُرفت باسم حرب يوغرطة. فضح الرشوة والفساد في مجلس الشيوخ الروماني قبل أن يُخان من قبل صهره بوكوس الأول ملك موريطنية ويُأسر في روما."
+  },
+  {
+    "id": "notice_ar_004",
+    "titre": "الملك يوبا الثاني",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D8%A8%D8%A7_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+    "theme": "شخصيات تاريخية",
+    "texte": "يوبا الثاني (52 ق.م - 23 م) كان ملكاً أمازيغياً لموريطنية. تربى في روما وتلقى تعليماً عالياً، وتزوج كليوباترا سيليني الثانية ابنة كليوباترا وماركوس أنطونيوس. اشتُهر بعلمه الغزير في الجغرافيا والتاريخ والفنون، وجعل من عاصمتيه قيسارية (شرشال) ووليلي مراكز حضارية مزدهرة."
+  },
+  {
+    "id": "notice_ar_005",
+    "titre": "حضارة قرطاج القديمة",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D8%B7%D8%A7%D8%AC",
+    "theme": "مدن وآثار",
+    "texte": "قرطاج هي حضارة بحرية وتجارية كبرى أسسها الفينيقيون القادمون من صور في القرن التاسع قبل الميلاد على سواحل تونس الحالية. حكمت شبكة تجارية واسعة في غرب البحر المتوسط وخاضت الحروب البونية الثلاثة ضد روما بقيادة قادتها العظام مثل حملقار برقا وحنبعل."
+  },
+  {
+    "id": "notice_ar_006",
+    "titre": "مدينة وليلي الأثرية",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%88%D9%84%D9%8A%D9%84%D9%8A",
+    "theme": "مدن وآثار",
+    "texte": "مدينة وليلي هي موقع أثري أمازيغي وروماني يقع قرب مدينة مكناس بالمغرب. كانت عاصمة إقليمية مزدهرة بإنتاج الزيوت والحبوب، وتحتوي على لوحات فسيفسائية فريدة وقوس النصر لكاراكلا، وكانت لاحقاً أول مقر نزل به إدريس الأول مؤسس الدولة الإدريسية."
+  },
+  {
+    "id": "notice_ar_007",
+    "titre": "مدينة تيمقاد الأثرية",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%85%D9%82%D8%A7%D8%AF",
+    "theme": "مدن وآثار",
+    "texte": "تيمقاد هي مدينة رومانية قديمة تقع في ولاية باتنة بالجزائر، أسسها الإمبراطور تراجان حوالي عام 100 للميلاد كمستعمرة عسكرية. تشتهر بتخطيطها العمراني المتقن بنظام الشطرنج وتضم مسرحاً كبيراً وقوس تراجان ومكتبة عمومية ضخمة."
+  },
+  {
+    "id": "notice_ar_008",
+    "titre": "الدولة الإدريسية وتأسيس فاس",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%B1%D8%B3%D8%A9",
+    "theme": "سلالات وتاريخ",
+    "texte": "الدولة الإدريسية هي أول دولة إسلامية مستقلة في المغرب الأقصى، أسسها المولى إدريس بن عبد الله (إدريس الأول) سنة 789م بعد مبايعته من قبل قبيلة أوربة الأمازيغية. قام ابنه إدريس الثاني بتوسيع الدولة وبناء مدينة فاس كعاصمة علمية وسياسية."
+  },
+  {
+    "id": "notice_ar_009",
+    "titre": "جامعة القرويين بفاس",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D9%88%D9%8A%D9%8A%D9%86",
+    "theme": "العلم والمعرفة",
+    "texte": "جامع وجامعة القرويين هي مؤسسة تعليمية أسستها فاطمة الفهرية عام 859م في مدينة فاس المغربية. صُنفت من قبل اليونسكو وموسوعة غينيس كأقدم جامعة لا تزال تمنح الشهادات وتعمل باستمرار في العالم، وتخرج منها كبار العلماء في الفلك والرياضيات والفقه."
+  },
+  {
+    "id": "notice_ar_010",
+    "titre": "الدولة المرابطية",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A8%D8%B7%D9%88%D9%86",
+    "theme": "سلالات وتاريخ",
+    "texte": "المرابطون هم سلالة أمازيغية صنهاجية انطلقت من الصحراء وحكمت المغرب والأندلس وأجزاء من غرب إفريقيا في القرنين الحادي عشر والثاني عشر. أسسوا مدينة مراكش عام 1062م لتكون عاصمة إمبراطوريتهم العظمى تحت قيادة يوسف بن تاشفين."
+  },
+  {
+    "id": "notice_ar_011",
+    "titre": "يوسف بن تاشفين",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D8%B3%D9%81_%D8%A8%D9%86_%D8%AA%D8%A7%D8%B4%D9%81%D9%8A%D9%86",
+    "theme": "شخصيات تاريخية",
+    "texte": "يوسف بن تاشفين (1009 - 1106م) هو أمير المسلمين وقائد الدولة المرابطية وباني مراكش. استنجد به ملوك الطوائف في الأندلس فعبر البحر وانتصر انتصاراً تاريخياً حاسماً على الملك ألفونسو السادس القشتالي في معركة الزلاقة سنة 1086م، موحداً الأندلس مع المغرب."
+  },
+  {
+    "id": "notice_ar_012",
+    "titre": "الدولة الموحدية",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D9%88%D9%86",
+    "theme": "سلالات وتاريخ",
+    "texte": "الموحدون حركة دينية وسلالة أمازيغية مصمودية أسسها المهدي بن تومرت في جبال الأطلس بالمغرب. بسطت الدولة سيطرتها في عهد عبد المؤمن بن علي وخلفائه على كامل الشمال الإفريقي والأندلس، واشتهرت بعمارتها العظيمة مثل صومعة حسان والكتبية والخيرالدا."
+  },
+  {
+    "id": "notice_ar_013",
+    "titre": "عبد الرحمن بن خلدون",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86",
+    "theme": "علماء ومفكرون",
+    "texte": "عبد الرحمن بن خلدون (1332 - 1406م) مؤرخ وفيلسوف عربي تونسي المولد، يُعد المؤسس الأول لعلم الاجتماع الحديث وفلسفة التاريخ. كتابه الشهير مقدمة ابن خلدون وضع النظريات الأولى لنشوء وسقوط الدول ومفهوم العصبية القبلية والتحولات الاقتصادية."
+  },
+  {
+    "id": "notice_ar_014",
+    "titre": "ابن بطوطة رحالة الإسلام",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A8%D8%B7%D9%88%D8%B7%D8%A9",
+    "theme": "رحالة وجغرافيون",
+    "texte": "ابن بطوطة (1304 - 1377م) هو الرحالة المغربي الشهير المولود في طنجة. قطع في رحلاته التي دامت ثلاثين عاماً أكثر من 120 ألف كيلومتر وزار إفريقيا والشرق الأوسط والهند وجزر المالديف والصين، وسجل مشاهداته في كتابه تحفة النظار في غرائب الأمصار."
+  },
+  {
+    "id": "notice_ar_015",
+    "titre": "طارق بن زياد",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%B1%D9%82_%D8%A8%D9%86_%D8%B2%D9%8A%D8%A7%D8%AF",
+    "theme": "شخصيات تاريخية",
+    "texte": "طارق بن زياد قائد عسكري مسلم قاد الفتح الإسلامي لشبه الجزيرة الإيبيرية (الأندلس) عام 711م بأمر من موسى بن نصير في عهد الخليفة الأموي الوليد بن عبد الملك. عبر المضيق من المغرب وعسكر عند الجبل الذي سُمي باسمه حتى اليوم: جبل طارق."
+  },
+  {
+    "id": "notice_ar_016",
+    "titre": "جامع القيروان الكبير",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9_%D8%B9%D9%82%D8%A8%D8%A9_%D8%A8%D9%86_%D9%86%D8%A7%D9%81%D8%B9",
+    "theme": "مدن وآثار",
+    "texte": "جامع عقبة بن نافع أو جامع القيروان الكبير في تونس هو أقدم مسجد في المغرب الإسلامي، أسسه القائد عقبة بن نافع سنة 50 هـ (670م). يُعتبر تحفة معمارية كبرى بمئذنته المربعة وصحنه الفسيح وأعمدته الرخامية، وكان مركز إشعاع علمي وديني لقرون."
+  },
+  {
+    "id": "notice_ar_017",
+    "titre": "قصر الحمراء بغرناطة",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D9%86_%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1",
+    "theme": "مدن وآثار",
+    "texte": "قصر الحمراء هو مجمع قصور وحصون شيده ملوك بني نصر في مدينة غرناطة بالأندلس خلال القرنين الثالث عشر والرابع عشر. يشتهر بفنائه المعروف بفناء السباع وبدقة نقوشه وزخارفه الجبسية وأشعاره المنقوشة، ويُمثل أوج الفن الإسلامي الأندلسي."
+  },
+  {
+    "id": "notice_ar_018",
+    "titre": "الدولة الزيانية في تلمسان",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D9%86%D9%8A%D9%88%D9%86",
+    "theme": "سلالات وتاريخ",
+    "texte": "الدولة الزيانية أو بنو عبد الواد دولة إسلامية أمازيغية حكمت المغرب الأوسط (الجزائر الحالية) من 1235 إلى 1554م وجعلت من تلمسان عاصمة لها. ازدهرت في عهد مؤسسها يغمراسن بن زيان وأصبحت تلمسان قبلة للعلماء والتجار بين الصحراء وأوروبا."
+  },
+  {
+    "id": "notice_ar_019",
+    "titre": "ابن رشد (أفيروس)",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B1%D8%B4%D8%AF",
+    "theme": "علماء ومفكرون",
+    "texte": "أبو الوليد محمد بن أحمد بن رشد (1126 - 1198م) المعروف في الغرب بأفيروس، فيلسوف وفقيه وقاضي وطبيب أندلسي وُلد في قرطبة وتوفي في مراكش. دافع عن التوفيق بين الحكمة والشريعة واشتهر بشروحه العميقة لأرسطو التي غيرت مسار الفلسفة الأوروبية."
+  },
+  {
+    "id": "notice_ar_020",
+    "titre": "الشريف الإدريسي",
+    "langue": "ar",
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3%D9%8A",
+    "theme": "علماء ومفكرون",
+    "texte": "أبو عبد الله محمد الإدريسي (1100 - 1165م) وُلد في سبتة، وهو من أشهر علماء الجغرافيا والخرائط في التاريخ. وضع للملك روجر الثاني ملك صقلية خريطة العالم المعروفة بلوح روجر، وألف كتابه الشهير نزهة المشتاق في اختراق الآفاق جامعاً أدق تفاصيل العالم المعروف آنذاك."
+  }
+]

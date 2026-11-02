@@ -34,6 +34,7 @@ class PipelineResult(BaseModel):
         description="'SUCCESS', 'REFUSAL_LANGUAGE', 'REFUSAL_NO_CORPUS', 'REFUSAL_VERIFICATION'"
     )
     fidelity_score: float = Field(default=1.0, description="Score de fidélité certifié par l'Agent 4 (0 à 1)")
+    suggestions: List[str] = Field(default_factory=list, description="Suggestions de désambiguïsation si la question est générale")
     citations: List[Dict[str, Any]] = Field(default_factory=list, description="Liste des sources documentaires formelles")
     chunks_used: List[DocumentChunk] = Field(default_factory=list, description="Extraits documentaires retenus")
     total_latency_ms: float = Field(..., description="Latence totale de traitement de bout en bout")
@@ -128,12 +129,14 @@ class MultiAgentOrchestrator:
 
         if not retriever_res.has_results:
             total_dt = round((time.time() - start_time) * 1000, 2)
+            status = "AMBIGUOUS_SUGGESTION" if retriever_res.suggestions else "REFUSAL_NO_CORPUS"
             return PipelineResult(
                 query=query,
                 final_answer=retriever_res.message,
                 lang=lang,
-                status="REFUSAL_NO_CORPUS",
+                status=status,
                 fidelity_score=1.0,
+                suggestions=retriever_res.suggestions,
                 citations=[],
                 chunks_used=[],
                 total_latency_ms=total_dt,
