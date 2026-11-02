@@ -1,0 +1,244 @@
+[
+  {
+    "id": "eval_fr_01",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Qui était Masinissa et quelle était la capitale de son royaume ?",
+    "ground_truth": "Masinissa était le premier roi de la Numidie unifiée et sa capitale était Cirta (Constantine).",
+    "expected_sources": ["notice_fr_001", "notice_fr_002"]
+  },
+  {
+    "id": "eval_fr_02",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Qui a régné sur la Numidie pendant la guerre de Jugurtha et contre qui s'est-il battu ?",
+    "ground_truth": "Le roi Jugurtha, petit-fils de Masinissa, a combattu la République romaine.",
+    "expected_sources": ["notice_fr_003"]
+  },
+  {
+    "id": "eval_fr_03",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Qui était Juba II et avec qui était-il marié ?",
+    "ground_truth": "Juba II était roi de Maurétanie et époux de Cléopâtre Séléné II, fille de Cléopâtre et Marc Antoine.",
+    "expected_sources": ["notice_fr_004"]
+  },
+  {
+    "id": "eval_fr_04",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Où se situe le site antique de Volubilis et que produisait cette ville ?",
+    "ground_truth": "Volubilis est située près de Meknès au Maroc et produisait du blé et de l'huile d'olive.",
+    "expected_sources": ["notice_fr_007"]
+  },
+  {
+    "id": "eval_fr_05",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Qui a fondé l'Université Al-Qarawiyyin à Fès et en quelle année ?",
+    "ground_truth": "Fatima al-Fihriya a fondé la mosquée et université Al-Qarawiyyin en 859.",
+    "expected_sources": ["notice_fr_010"]
+  },
+  {
+    "id": "eval_fr_06",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Quel chef almoravide a remporté la bataille de Sagrajas en 1086 ?",
+    "ground_truth": "Yusuf ibn Tashfin a infligé une défaite à Alphonse VI lors de la bataille de Sagrajas (al-Zallaqah).",
+    "expected_sources": ["notice_fr_012"]
+  },
+  {
+    "id": "eval_fr_07",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "Quel concept sociologique majeur Ibn Khaldoun a-t-il développé dans la Muqaddima ?",
+    "ground_truth": "Le concept d'Asabiyya (cohésion sociale et solidarité de groupe).",
+    "expected_sources": ["notice_fr_014"]
+  },
+  {
+    "id": "eval_fr_08",
+    "lang": "fr",
+    "type": "in_corpus",
+    "question": "D'où venait le voyageur Ibn Battuta et quel est le nom de son récit de voyage ?",
+    "ground_truth": "Ibn Battuta est né à Tanger au Maroc et a consigné son périple dans sa Rihla.",
+    "expected_sources": ["notice_fr_015"]
+  },
+  {
+    "id": "eval_fr_09",
+    "lang": "fr",
+    "type": "out_of_corpus",
+    "question": "Comment préparer une paella valencienne traditionnelle au feu de bois ?",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  },
+  {
+    "id": "eval_fr_10",
+    "lang": "fr",
+    "type": "out_of_corpus",
+    "question": "En quelle année la tour Eiffel a-t-elle été inaugurée à Paris ?",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  },
+
+  {
+    "id": "eval_en_01",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "Who was the first king of united Numidia and what was its capital?",
+    "ground_truth": "Masinissa was the first king of united Numidia with Cirta as its capital.",
+    "expected_sources": ["notice_en_001", "notice_en_002"]
+  },
+  {
+    "id": "eval_en_02",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "What famous quote is attributed to King Jugurtha regarding the city of Rome?",
+    "ground_truth": "Jugurtha described Rome as a 'city for sale and doomed to quick destruction if it should find a buyer.'",
+    "expected_sources": ["notice_en_003"]
+  },
+  {
+    "id": "eval_en_03",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "Who founded the city of Carthage and when was it established?",
+    "ground_truth": "Phoenician settlers from Tyre founded Carthage in the 9th century BC near modern Tunis.",
+    "expected_sources": ["notice_en_005"]
+  },
+  {
+    "id": "eval_en_04",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "Which Roman emperor established the colony of Timgad in Algeria and what is its layout?",
+    "ground_truth": "Emperor Trajan founded Timgad around AD 100 with an iconic Roman grid plan.",
+    "expected_sources": ["notice_en_007"]
+  },
+  {
+    "id": "eval_en_05",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "What is the oldest continuously operating university in the world according to UNESCO?",
+    "ground_truth": "The University of al-Qarawiyyin in Fez, founded in 859 by Fatima al-Fihri.",
+    "expected_sources": ["notice_en_009"]
+  },
+  {
+    "id": "eval_en_06",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "What Moroccan city was founded by the Almoravid dynasty in 1062 as its imperial capital?",
+    "ground_truth": "Marrakesh was founded in 1062 by the Almoravids.",
+    "expected_sources": ["notice_en_010"]
+  },
+  {
+    "id": "eval_en_07",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "What is the name of the world map created by Muhammad al-Idrisi for King Roger II of Sicily?",
+    "ground_truth": "The Tabula Rogeriana (Nuzhat al-Mushtaq).",
+    "expected_sources": ["notice_en_020"]
+  },
+  {
+    "id": "eval_en_08",
+    "lang": "en",
+    "type": "in_corpus",
+    "question": "Where is the Alhambra fortress located and which Muslim dynasty constructed it?",
+    "ground_truth": "The Alhambra is in Granada, Spain, built by the Nasrid dynasty.",
+    "expected_sources": ["notice_en_017"]
+  },
+  {
+    "id": "eval_en_09",
+    "lang": "en",
+    "type": "out_of_corpus",
+    "question": "What are the core technical specifications and battery range of a Tesla Model 3?",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  },
+  {
+    "id": "eval_en_10",
+    "lang": "en",
+    "type": "out_of_corpus",
+    "question": "Who won the FIFA Football World Cup final in 1998?",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  },
+
+  {
+    "id": "eval_ar_01",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هو الملك الأمازيغي الذي وحد مملكة نوميديا وما هي مقولته الشهيرة؟",
+    "ground_truth": "الملك ماسينيسا وحد نوميديا واشتهر بمقولة إفريقيا للأفارقة.",
+    "expected_sources": ["notice_ar_001", "notice_ar_002"]
+  },
+  {
+    "id": "eval_ar_02",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هو مؤسس الدولة الإدريسية في المغرب وما هي المدينة التي بناها ابنه؟",
+    "ground_truth": "إدريس الأول أسس الدولة الإدريسية سنة 789م، وابنه إدريس الثاني بنى مدينة فاس.",
+    "expected_sources": ["notice_ar_008"]
+  },
+  {
+    "id": "eval_ar_03",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هي السيدة التي أسست جامع وجامعة القرويين بفاس وفي أي عام؟",
+    "ground_truth": "فاطمة الفهرية أسست جامعة القرويين سنة 859م.",
+    "expected_sources": ["notice_ar_009"]
+  },
+  {
+    "id": "eval_ar_04",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "ما هي المعركة التاريخية التي انتصر فيها يوسف بن تاشفين على ألفونسو السادس في الأندلس؟",
+    "ground_truth": "معركة الزلاقة سنة 1086م.",
+    "expected_sources": ["notice_ar_011"]
+  },
+  {
+    "id": "eval_ar_05",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هو العالم ومؤسس علم الاجتماع صاحب كتاب المقدمة وأين ولد؟",
+    "ground_truth": "عبد الرحمن بن خلدون وُلد في تونس وهو صاحب المقدمة ومؤسس علم الاجتماع.",
+    "expected_sources": ["notice_ar_013"]
+  },
+  {
+    "id": "eval_ar_06",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "ما اسم الرحالة المغربي المولود بطنجة وما هو اسم كتابه في أدب الرحلات؟",
+    "ground_truth": "ابن بطوطة، وكتابه تحفة النظار في غرائب الأمصار (الرحلة).",
+    "expected_sources": ["notice_ar_014"]
+  },
+  {
+    "id": "eval_ar_07",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هو القائد المسلم الذي قاد فتح الأندلس عام 711م وما اسم الجبل الذي سُمي باسمه؟",
+    "ground_truth": "طارق بن زياد، والجبل هو جبل طارق.",
+    "expected_sources": ["notice_ar_015"]
+  },
+  {
+    "id": "eval_ar_08",
+    "lang": "ar",
+    "type": "in_corpus",
+    "question": "من هو الفيلسوف الأندلسي الذي اشتهر بشروحه لأرسطو وتوفي بمراكش؟",
+    "ground_truth": "أبو الوليد ابن رشد (أفيروس).",
+    "expected_sources": ["notice_ar_019"]
+  },
+  {
+    "id": "eval_ar_09",
+    "lang": "ar",
+    "type": "out_of_corpus",
+    "question": "ما هي مكونات وطريقة تحضير الكسكس المغربي بالخضار السبع؟",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  },
+  {
+    "id": "eval_ar_10",
+    "lang": "ar",
+    "type": "out_of_corpus",
+    "question": "كم عدد الأهداف التي سجلها كريستيانو رونالدو في دوري أبطال أوروبا؟",
+    "ground_truth": "REFUS_EXPLICITE",
+    "expected_sources": []
+  }
+]
