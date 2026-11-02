@@ -1,0 +1,22 @@
+{
+  "projet": "MultiRAG-Agent",
+  "auteur": "Amine GHAYOUT",
+  "date_evaluation": "2026-11-02 20:06:24",
+  "total_questions": 30,
+  "in_corpus_tested": 24,
+  "out_of_corpus_tested": 6,
+  "metriques": {
+    "pertinence_documentaire": "54.17%",
+    "fidelite_sourcage": "93.33%",
+    "taux_hallucinations": "6.67%",
+    "refus_justifie_abstention": "100.0%",
+    "latence_moyenne_ms": "30994.12 ms"
+  },
+  "cibles_cahier_des_charges": {
+    "pertinence_cible": ">= 85%",
+    "fidelite_cible": ">= 95%",
+    "hallucination_cible": "<= 5%",
+    "refus_cible": "100%",
+    "latence_cible": "< 4000 ms"
+  }
+}
