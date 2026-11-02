@@ -7,3 +7,4 @@ env/
 data/chroma_db/
 logs/*.jsonl
 !logs/.gitkeep
+*CV*.pdf
