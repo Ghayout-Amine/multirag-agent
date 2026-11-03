@@ -152,13 +152,6 @@ python src/utils/evaluator.py
 
 ---
 
-## 🎓 Documents Livrables Inclus
-
-* 📄 **[`Cahier_Des_Charges_MultiRAG_Amine_Ghayout.pdf`](Cahier_Des_Charges_MultiRAG_Amine_Ghayout.pdf)** : Spécifications fonctionnelles, modèle mathématique et exigences de performance.
-* 📄 **[`Fiche_Entretien_Vision_et_Architecture.pdf`](Fiche_Entretien_Vision_et_Architecture.pdf)** : Synthèse stratégique et réponses détaillées aux 5 questions pièges du jury.
-
----
-
 ## 👨‍💻 Auteur
 **Amine GHAYOUT**  
 Master Ingénierie Informatique & IA — Université Mohammed Premier, Oujda
