@@ -13,7 +13,7 @@ from src.agents.orchestrator import MultiAgentOrchestrator, PipelineResult
 def run_benchmark(dataset_path: str = "data/eval/questions_test.json"):
     print("=" * 70)
     print("  BANC D'ESSAI SCIENTIFIQUE : ÉVALUATION DES 30 QUESTIONS (BENCHMARK)")
-    print("  Assistant MultiRAG-Agent — Master 2 & Candidature Recherche Cnam/Efrei")
+    print("  Assistant MultiRAG-Agent — Évaluation R&D Multi-Agents RAG")
     print("=" * 70)
 
     if not os.path.exists(dataset_path):

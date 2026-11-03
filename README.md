@@ -7,9 +7,9 @@
 [![LLM](https://img.shields.io/badge/LLM-Gemini%203.5%20Flash%20Lite-4285F4.svg)](https://aistudio.google.com/)
 [![License](https://img.shields.io/badge/Academic-Master%202-green.svg)]()
 
-> **Projet de Master 2 :** Module *Automatisation & IA Agentique*  
-> **Auteur :** Amine GHAYOUT — Université Mohammed Premier (Oujda)  
-> **Objectif :** Démonstrateur de recherche pour candidature au stage de recherche au **Cnam / Efrei (Paris)**.
+> **Projet R&D :** Système Multi-Agents RAG & Traçabilité Factuelle  
+> **Auteur :** Amine GHAYOUT — Master Ingénierie Informatique & IA (UMP Oujda)  
+> **Domaine :** Systèmes Multi-Agents, RAG & Éradication des Hallucinations (NLI)
 
 ---
 
@@ -161,5 +161,4 @@ python src/utils/evaluator.py
 
 ## 👨‍💻 Auteur
 **Amine GHAYOUT**  
-Master Ingénierie Informatique — Université Mohammed Premier, Oujda  
-Candidature Stage de Recherche : Laboratoires Cnam / Efrei (Paris)
+Master Ingénierie Informatique & IA — Université Mohammed Premier, Oujda

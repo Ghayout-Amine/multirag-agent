@@ -79,7 +79,7 @@ app = FastAPI(
     title="MultiRAG-Agent API",
     description="""
 ### API REST du Système RAG Multi-Agents Trilingue (FR / EN / AR)
-**Auteur : Amine GHAYOUT** — Projet de Master 2 & Candidature Recherche (Cnam / Efrei Paris)
+**Auteur : Amine GHAYOUT** — Projet R&D Multi-Agents RAG (Master 2 Informatique & IA)
 
 Cette API expose l'architecture complète des **5 agents autonomes** :
 1. **Agent 1 (LanguageAgent)** : Détection et validation de la langue (ISO-639-1).
@@ -128,7 +128,7 @@ def root():
         "projet": "MultiRAG-Agent",
         "auteur": "Amine GHAYOUT",
         "master": "Automatisation et IA Agentique (M2I)",
-        "destination": "Préparation Stage de Recherche Cnam / Efrei (Paris)",
+        "destination": "Projet R&D Multi-Agents & Traçabilité RAG",
         "documentation_interactive_swagger": "/docs",
         "statut": "Opérationnel",
         "langues_supportees": ["fr", "en", "ar"]
