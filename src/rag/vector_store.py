@@ -1,4 +1,8 @@
 import os
+# Optimisation du chargement hors-ligne des modèles Sentence-Transformers déjà téléchargés
+os.environ.setdefault("HF_HUB_OFFLINE", "1")
+os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+
 from typing import List, Dict, Any, Optional
 import chromadb
 from chromadb.utils import embedding_functions
